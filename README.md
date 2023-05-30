@@ -32,7 +32,7 @@ of handwritten digits](http://yann.lecun.com/exdb/mnist/).
 # Code structure
 
 ```bash
-├── house-price-prediction.ipynb
+├── digit_recognition.ipynb
 ├── LICENSE
 ├── README.md
 └── .gitignore
