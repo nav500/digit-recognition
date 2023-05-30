@@ -1,4 +1,4 @@
-# House price prediction
+# Digits recognition
 
 # Project overview
 
